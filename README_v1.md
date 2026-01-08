@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2026-01-08 16:00:49 IST
+Last updated: 2026-01-08 16:05:41 IST
 
 ## AAVAS.NS
 
@@ -54,8 +54,8 @@ Last updated: 2026-01-08 16:00:49 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-08 15:28:00+05:30</td><td>330.1000061035156</td><td>0</td></tr>
   <tr><td>2026-01-08 15:27:00+05:30</td><td>328.29998779296875</td><td>0</td></tr>
-  <tr><td>2026-01-08 15:24:00+05:30</td><td>329.0</td><td>125</td></tr>
 </table>
 
 ## BAJAJHLDNG.NS
@@ -150,8 +150,8 @@ Last updated: 2026-01-08 16:00:49 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-08 15:29:00+05:30</td><td>7667.0</td><td>56</td></tr>
   <tr><td>2026-01-08 15:28:00+05:30</td><td>7664.5</td><td>192</td></tr>
-  <tr><td>2026-01-08 15:27:00+05:30</td><td>7661.5</td><td>148</td></tr>
 </table>
 
 ## CREDITACC.NS
@@ -166,8 +166,8 @@ Last updated: 2026-01-08 16:00:49 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-08 15:29:00+05:30</td><td>4719.0</td><td>363</td></tr>
   <tr><td>2026-01-08 15:28:00+05:30</td><td>4724.5</td><td>365</td></tr>
-  <tr><td>2026-01-08 15:27:00+05:30</td><td>4728.7998046875</td><td>841</td></tr>
 </table>
 
 ## CUPID.NS
@@ -294,8 +294,8 @@ Last updated: 2026-01-08 16:00:49 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-08 15:29:00+05:30</td><td>993.8499755859375</td><td>4886</td></tr>
   <tr><td>2026-01-08 15:28:00+05:30</td><td>991.4000244140625</td><td>6441</td></tr>
-  <tr><td>2026-01-08 15:27:00+05:30</td><td>988.9000244140625</td><td>4924</td></tr>
 </table>
 
 ## DUCON.NS
@@ -414,8 +414,8 @@ Last updated: 2026-01-08 16:00:49 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-08 15:29:00+05:30</td><td>19.510000228881836</td><td>553</td></tr>
   <tr><td>2026-01-08 15:22:00+05:30</td><td>19.6200008392334</td><td>1500</td></tr>
-  <tr><td>2026-01-08 15:18:00+05:30</td><td>19.399999618530273</td><td>2045</td></tr>
 </table>
 
 ## ENGINERSIN.NS
@@ -598,8 +598,8 @@ Last updated: 2026-01-08 16:00:49 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-08 15:29:00+05:30</td><td>130.64999389648438</td><td>7671</td></tr>
   <tr><td>2026-01-08 15:28:00+05:30</td><td>129.22999572753906</td><td>9214</td></tr>
-  <tr><td>2026-01-08 15:27:00+05:30</td><td>129.8800048828125</td><td>3627</td></tr>
 </table>
 
 ## GALAXYSURF.NS
@@ -942,8 +942,8 @@ Last updated: 2026-01-08 16:00:49 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-08 15:29:00+05:30</td><td>98.48999786376953</td><td>439</td></tr>
   <tr><td>2026-01-08 15:28:00+05:30</td><td>97.70999908447266</td><td>653</td></tr>
-  <tr><td>2026-01-08 15:25:00+05:30</td><td>97.77999877929688</td><td>0</td></tr>
 </table>
 
 ## GUFICBIO.NS
@@ -1174,8 +1174,8 @@ Last updated: 2026-01-08 16:00:49 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-08 15:29:00+05:30</td><td>68.0199966430664</td><td>68</td></tr>
   <tr><td>2026-01-08 15:28:00+05:30</td><td>67.58999633789062</td><td>313</td></tr>
-  <tr><td>2026-01-08 15:27:00+05:30</td><td>67.5199966430664</td><td>467</td></tr>
 </table>
 
 ## HNDFDS.NS
